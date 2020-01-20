@@ -1,0 +1,20 @@
+---
+layout: post
+title:      "Blood Alley"
+date:       2020-01-20 00:06:34 +0000
+permalink:  blood_alley
+---
+
+
+"If you don't fall at least once, you're not trying hard enough." As chair 5 at the Mount Baker Ski Area carried us to our destination, my wife, my two buddies, and I talked about what it meant to have a good day of skiing. My wife who is a speed demon that is always waiting for me at the bottom of the run said that her perfect day is a day with no errors. Just skiing fast and in perfect form. My buddy Brandon said he just hopes to make it through the day without tweaking anything. I talked about finding a new route or jump that was off the groomed trail. After all that my friend Max chimed in with "If you don't fall at least once, you're not trying hard enough." Max is the type of skier that spends more time going downhill backwards than forwards. The chair lifted our party of four out of the protective confines of the Raven Hut bowl and the wind blasted our faces with snow as we dismounted and made our way to the bottom of the run.
+
+In December of 2018 I left my job in the Health Care field for a job at a local school district. A few years prior I had graduated with a Bachelors of Science in Community Health but had grown unsure of my future in the field. I had been coaching middle school and high school football for the past few years and saw teaching as a future career path. That idea had a lasted a few weeks when I realized that I might have jumped the gun a bit too quickly. While I enjoyed the job I was doing for the school district and felt happy to be working with kids, something just didn't feel right. It just didn't feel like a career change that I needed to make at this time. Unsure of what my future held, I turned to something that had always interested me.
+
+I always saw programming as a hobby. It was something that seemed better worth my time than television or video games. I had spent time learning basic JavaScript but never made  it far in many of the free online curriculum. After spending countless hours talking about wanting to learn “how to program” my wife got me a subscription to TreeHouse for my birthday.
+
+Over the next three months I worked through the Front-End learning path on TreeHouse. I was hooked quickly and realized that I wanted to make a career out of this. Then came the next challenge. How do I transition from a background in Health Care to a career in Software Development. I looked at the prices and length of online Computer Science degrees and knew that route wasn’t right for me. I had already spent 4 years (and change) to get a B.S. so why spend another 2+ years and $30,000 on something that I already had? Around that time is when I started looking into the many online coding bootcamps. At first bootcamps scared me. They seemed like option that promised quick learning with quick job opportunities. 
+
+Enter Flatiron School. A bootcamp that has 1,000 hours of curriculum and allows you 15 months to work through it. I felt more at ease knowing this program was willing to wait for you to finish on your own time and didn’t just want to get you out the door and into the field. A program that wasn’t promising easy money but that hard work and a willingness to learn will pay off in the long run. I’m only a few months into the curriculum but my decision to attend Flatiron School already seems to be paying off. 
+
+Blood Alley is an un-groomed trail with small kickers and decent sized drops that forks off of Easy Money. I had never ventured off trail until that day we all spent freezing on chair 5. I had always played it safe and was more concerned with staying upright. Now I can’t go a day up at Baker without hitting my favorite jump on Blood Alley even if it means losing a decent chunk of skin off my left thumb (a different story for a different post). There are many decisions that need to be made during ones life. Making a career change and hitting a a narrow drop both require an understanding that falling is just part of the process.
+
