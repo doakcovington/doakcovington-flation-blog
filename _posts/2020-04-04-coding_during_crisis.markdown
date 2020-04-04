@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Coding During Crisis"
-date:       2020-04-04 20:17:58 +0000
+date:       2020-04-04 16:17:59 -0400
 permalink:  coding_during_crisis
 ---
 
