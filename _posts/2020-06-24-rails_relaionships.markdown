@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Rails Relaionships"
-date:       2020-06-24 20:52:04 +0000
+title:      "Rails Relationships"
+date:       2020-06-24 16:52:04 -0400
 permalink:  rails_relaionships
 ---
 
